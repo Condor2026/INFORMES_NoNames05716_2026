@@ -33,7 +33,8 @@ La infraestructura se apoya en el abuso masivo del servicio **`sslip.io`** (DNS 
 | **IP Address** | `45.154.98.101` |
 | **Ubicación** | Países Bajos (NL) |
 | **Grupo Asociado** | NoName057(16) |
-| **Botnet** | GreenSnow |
+| **Botnet** | Sin nombre asociada a Nonames057 | Detectada por Andromeda |
+| **GreenSnow** | BlockList |
 | **Última Actividad** | **2026-07-25T17:25:58.828498** (Confirmado en vivo) |
 
 ### 2.2. Volumen de Telemetría Histórica
