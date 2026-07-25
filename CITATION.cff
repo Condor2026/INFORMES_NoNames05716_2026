@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this threat intelligence repository, please cite it as follows."
+title: "NoName057(16) - Threat Intelligence Tracker"
+authors:
+  - family-names: "Condor2026 Threat Security"
+    affiliation: "Andromeda Private Suite"
+date-released: 2026-07-25
+version: 1.0.0
+repository-code: "https://github.com/[Condor2026/INFORMES_NoNames05716_2026]"
+url: "https://github.com/[Condor2026]/[https://github.com/Condor2026/INFORMES_NoNames05716_2026]"
+keywords:
+  - threat-intelligence
+  - cybersecurity
+  - malware-analysis
+  - emotet
+  - ddos
+  - noname057
+  - botnet
+license: MIT
+abstract: "A structured threat intelligence tracker for the NoName057(16) threat actor, mapping infrastructure, malware payloads, and TTPs for defensive purposes."
