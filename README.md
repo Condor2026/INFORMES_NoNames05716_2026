@@ -3,7 +3,7 @@
 **Repository Purpose:** Centralized Mapping & Tracking of the NoName057(16) Threat Actor Infrastructure  
 **Classification:** TLP:WHITE  
 **Status:** 🟢 Active Tracking (Updated: 2026-07-25)  
-
+![OpNoName](OpNoname057_16.jpg)
 ---
 
 ## 📖 Introduction
