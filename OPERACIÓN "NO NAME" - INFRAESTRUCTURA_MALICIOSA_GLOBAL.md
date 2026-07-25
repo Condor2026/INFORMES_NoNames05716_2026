@@ -1,7 +1,4 @@
-
-
-# INFORME DE INTELIGENCIA DE AMENAZAS (THREAT INTEL REPORT)
-
+    # INFORME DE INTELIGENCIA DE AMENAZAS (THREAT INTEL REPORT)
 ## OPERACIÓN "NO NAME" - INFRAESTRUCTURA MALICIOSA GLOBAL
 
 **Clasificación:** TLP:WHITE // CONFIDENCIALIDAD RESTRINGIDA  
@@ -10,7 +7,8 @@
 **Fuente:** Andromeda Private Suite - Condor2026 (Basado en extracción JSON de VirusTotal Graph)  
 **Objetivo Principal:** `45.154.98.101` | **AS210558** (1337 Services GmbH) | **Países Bajos (NL)**
 - 45.154.98.101 · The Netherlands · Grupo: NoName057(16) · Botnet: GreenSnow · Últ. vista: 2026-07-25T17:25:58.828498
-
+- BotNet Map
+![OpNoName](OpNoname05716.jpg)
 
 ---
 
