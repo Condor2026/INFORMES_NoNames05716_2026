@@ -1,8 +1,17 @@
 # 🕵️ NoName057(16) - Threat Intelligence Tracker
 
+![Static Badge](https://img.shields.io/badge/🦅🦅🦅%20Condor2026%20–%20Threat%20Investigator%20🦅🦅🦅-red)
+
+MAPEANO A NONAME057
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=700&color=FF0000&center=true&vCenter=true&width=600&lines=NoName057(16)+%7C+Infrastructure+Tracker;Condor2026+%7C+Threat+Hunter&cursor=%20" alt="Static text" />
+</p>
+
 **Repository Purpose:** Centralized Mapping & Tracking of the NoName057(16) Threat Actor Infrastructure  
 **Classification:** TLP:WHITE  
 **Status:** 🟢 Active Tracking (Updated: 2026-07-25)  
+
 ![OpNoName](OpNoname057_16.jpg)
 ---
 
