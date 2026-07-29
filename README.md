@@ -21,7 +21,6 @@
 NoName057(16) is not just another hacker group. It is a **decentralized, ideologically motivated, and technically evolved network** that has transitioned from a marginal group of "script kiddies" to one of the most active persistent threats within the pro-Russian ecosystem.
 
 Since its emergence in March 2022, days after the start of the Russian invasion of Ukraine, NoName057(16) has executed a **relentless campaign of DDoS attacks** against governments, critical infrastructure, and media outlets in over 32 countries. However, its true sophistication lies not solely in its technical capabilities, but in its **organizational model, propaganda machinery, and adaptive capacity**.
-
 ---
 ![OpNoName](NoName057.jpg)
 
