@@ -23,6 +23,7 @@ NoName057(16) is not just another hacker group. It is a **decentralized, ideolog
 Since its emergence in March 2022, days after the start of the Russian invasion of Ukraine, NoName057(16) has executed a **relentless campaign of DDoS attacks** against governments, critical infrastructure, and media outlets in over 32 countries. However, its true sophistication lies not solely in its technical capabilities, but in its **organizational model, propaganda machinery, and adaptive capacity**.
 
 ---
+![OpNoName](NoName057.jpg)
 
 ### 1. The Human Ecosystem: A Generational and Global Network
 
