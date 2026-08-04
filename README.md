@@ -12,7 +12,7 @@
 **Classification:** TLP:WHITE  
 **Status:** 🟢 Active Tracking (Updated: 2026-07-25)  
 
-![OpNoName](OpNoname057_16.jpg)
+![OpNoName](NonameDOSSIER.png)
 
 ---
 
